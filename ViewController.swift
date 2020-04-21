@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Nahulog
 //
-//  Created by Lemark Sibala on 6/25/17.
+//  Created by LS on 6/25/17.
 //  Copyright © 2017 Gowi Apps. All rights reserved.
 //
 
